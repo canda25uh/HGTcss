@@ -5,11 +5,11 @@ content: url(https://canda25uh.github.io/HGTcss/howmany.gif);
 }
 
 #board-info #viewers-area #viewers:before {
-content: "½Ç¹öÅ¸¿î ";
+content: "í•œì²­ì";
     cursor: text;
 }
 
 #board-info #viewers-area #viewers:after {
-    content: "¸í °ÅÁÖÁß";
+    content: "ëª… ë¨¸ê¸°ì¤‘";
     cursor: text;
 }
