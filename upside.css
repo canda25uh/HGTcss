@@ -4,11 +4,9 @@ header:before {
 
     width: 100%;
 
-    height: 78px;
+    height: 50px;
 
-    background: #7b76b6;
-
-background: url("https://canda25uh.github.io/HGTcss/upbg.png");  
+background:#7b76b6 url("https://canda25uh.github.io/HGTcss/upbg.png")no-repeat;  
 
     background-position: center center;
 
