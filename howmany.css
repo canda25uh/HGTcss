@@ -1,0 +1,15 @@
+#board-info #viewers-area .fa-user:before {
+   !color: #1C1A4E;
+ color: #800080;
+content: url(https://canda25uh.github.io/HGTcss/howmany.gif);
+}
+
+#board-info #viewers-area #viewers:before {
+content: "실버타운 ";
+    cursor: text;
+}
+
+#board-info #viewers-area #viewers:after {
+    content: "명 거주중";
+    cursor: text;
+}
